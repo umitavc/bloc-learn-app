@@ -1,0 +1,10 @@
+
+{
+    "application": {
+        "home": "Home Page",
+        "search": "Search",
+        "course": "Course",
+        "chat": "Chat",
+        "profil": "Profil"
+    }
+}

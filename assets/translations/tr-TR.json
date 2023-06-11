@@ -1,0 +1,9 @@
+{
+    "application": {
+        "home": "Ana Sayfa",
+        "search": "Ara",
+        "course": "Kurs",
+        "chat": "Chat",
+        "profil": "Profil"
+    }
+}
